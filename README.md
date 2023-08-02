@@ -11,7 +11,6 @@ npx react-native run-android && npx react-native start
 #### Pages
 
 <div style="display: flex;">
-    <div style=" width: 250px; margin: 0 10px;">
         <p>Login</p>
         <img src="https://github.com/TamiBeira/Rocket_Help/assets/55815968/de45e34b-590a-4e24-8833-bce9379f5179" width="250"/>
         <p>Page 01</p>
@@ -26,6 +25,5 @@ npx react-native run-android && npx react-native start
         <img src="https://github.com/TamiBeira/Rocket_Help/assets/55815968/bdeff3d5-b7c4-483a-af70-7b0c134d1e86" width="250"/>
         <p>Page 06</p>
         <img src="https://github.com/TamiBeira/Rocket_Help/assets/55815968/61f23890-2c00-42af-91d9-a83b8c7a8c24" width="250"/>
-    </div>
 </div>
 
